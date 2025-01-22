@@ -44,6 +44,42 @@ Interactive filters for "Year," "Categories," and "Country" allow users to explo
 
 ![Overview_Page.png](Overview_Page.png)
 
+# Netflix Movies and TV Shows Dashboard
+
+The Netflix Movies and TV Shows Dashboard offers detailed insights into the platform's content, focusing on the distribution of movies and TV shows by rating, region, and directors. It emphasizes trends in movie releases and their geographical distribution.
+
+# Key Features
+Total Titles: 8,808
+Total Movies: 6,129 (70% of total titles)
+Country Count: 124
+
+# Visualizations:
+
+# Number of Movies by Rating (Donut Chart):
+
+Visualizes the proportion of movies by ratings, with TV-MA (38.78%) being the largest category.
+
+# Number of Movies by Country (Map):
+
+Highlights key cities like Los Angeles, San Francisco, and Dallas as major contributors to sales.
+
+# Total Movies by Director (Bar Chart):
+
+Displays top directors with the most movies, led by "No Director" (339), followed by Youssef Chahine (46) and Cathy Garcia (37).
+
+# Movies by Year (Line Chart):
+
+Shows trends in movie releases over the years, peaking in 2018 with 4,251 movies.
+
+# Interactive Filters (Slicers):
+
+Interactive options for exploring data by "Film" and "TV Show", enabling deeper analysis.
+
+![Movies_Page.png](Movies_Page.png)
+
+
+
+
 
 
 
