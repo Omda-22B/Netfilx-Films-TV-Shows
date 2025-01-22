@@ -44,14 +44,14 @@ Interactive filters for "Year," "Categories," and "Country" allow users to explo
 
 ![Overview_Page.png](Overview_Page.png)
 
-# Netflix Movies and TV Shows Dashboard
+# Netflix Movies Dashboard
 
 The Netflix Movies and TV Shows Dashboard offers detailed insights into the platform's content, focusing on the distribution of movies and TV shows by rating, region, and directors. It emphasizes trends in movie releases and their geographical distribution.
 
 # Key Features
-Total Titles: 8,808
-Total Movies: 6,129 (70% of total titles)
-Country Count: 124
+- Total Titles: 8,808
+- Total Movies: 6,129 (70% of total titles)
+- Country Count: 124
 
 # Visualizations:
 
@@ -76,6 +76,54 @@ Shows trends in movie releases over the years, peaking in 2018 with 4,251 movies
 Interactive options for exploring data by "Film" and "TV Show", enabling deeper analysis.
 
 ![Movies_Page.png](Movies_Page.png)
+
+
+# Netflix TV Shows Dashboard
+The Netflix TV Shows Dashboard offers a detailed exploration of the platform's TV shows, highlighting trends, ratings, and key contributors. It focuses on analyzing TV show distribution across various regions, categories, and release years.
+
+# Key Features
+- Total TV Shows: 2,679
+- Coverage: From 1925 to 2021
+- Top Contributors: Countries and categories with the most TV shows
+
+# Visualizations:
+
+# Total TV Shows by Release Year (Line Chart):
+
+Tracks the release trends of TV shows over the years, peaking around 2017.
+
+# Ratings by TV Shows (Bar Chart):
+
+Visualizes the distribution of TV shows by ratings, with TV-MA leading at 1,000+ titles.
+
+# Top 5 Countries (Pie Chart):
+
+Highlights the countries contributing most to TV shows, led by the USA, India, and UK.
+
+# Top Categories for TV Shows (Bar Chart):
+
+Displays the most frequent categories, with genres like Dramas and International TV Shows dominating.
+
+# Interactive Filters (Slicers):
+
+Offers dynamic filters for Year, Country, and Categories, enabling tailored insights.
+
+![TV_Shows_Page.png](TV_Shows_Page.png)
+
+# Conclusion
+
+This project delivers comprehensive insights into Netflix's content library, including trends in TV shows and movies, ratings distribution, and geographical contributions.
+
+The interactive dashboards enable users to explore data dynamically, identify key patterns, and make informed decisions regarding content strategy and audience engagement.
+
+
+
+
+
+
+
+
+
 
 
 
